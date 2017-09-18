@@ -8,7 +8,8 @@ body
 {
 	margin: 0px;
 	padding: 0px;
-	background: #2F1258;
+	/*background: #2F1258;*/
+	background: #8678B0;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 11pt;
 	font-weight: 300;
@@ -365,7 +366,7 @@ ul.contact li a.icon-rss:before
 	
 #header-wrapper
 {
-	background: #6648B0;
+	background: #8678B0;
 }
 
 #header
@@ -390,7 +391,8 @@ ul.contact li a.icon-rss:before
 {
 	display: inline-block;
 	font-size: 2.5em;
-	text-transform: uppercase;
+    font-family: 'Crimson Text', serif;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 	color: #FFF;
 }
